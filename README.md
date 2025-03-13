@@ -100,7 +100,7 @@
   <tr>
     <td align="center">프론트엔드</td>
     <td colspan="3" rowspan="4" align="center">프로젝트 계획</td>
-    <td colspan="3" align="center">4주(3/27) : 개발 계획 발표</td>
+    <td rowspan="4" align="center">개발 계획 발표(3/27)</td>
     <td colspan="6" align="center">위키 초안 작성</td>
     <td colspan="12" align="center">1. README.md 작성 및 검토<br>2. 위키 작성 및 검토</td>
   </tr>
