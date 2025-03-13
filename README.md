@@ -23,19 +23,16 @@
 
 
 14주(6/12) : 논문(보고서) 작성 방법 /  논문(보고서) 작성
-15주(5/19) : 기말고사 기간, 논문(보고서)제출![image](https://github.com/user-attachments/assets/8d97e947-69da-4480-b490-40eb977b088b)
+15주(5/19) : 기말고사 기간, 논문(보고서)제출
 최종 결과- 기말고사) 논문/보고서 작성
-![image](https://github.com/user-attachments/assets/b4155d2a-b929-4b7b-9c77-3ccda6a22907)
+
 교수님 평가  (기말고사 성적 합산)
-![image](https://github.com/user-attachments/assets/37afa239-76ca-468d-b941-bd790405d775)
 
 
 1 주제(그림 인식을 통한 분류) : Google Inception 활용 이미지 분류 
-![image](https://github.com/user-attachments/assets/fff632c0-a333-419b-9ffc-f8f2af61b558)
 
 2 주제(글자 감정 인식) : 
                 (한글) 네이버 영화 리뷰 감성 분류 (네이버 리뷰 데이터 활용)
                 (영문) IMDB 리뷰 감성 분류 
-![image](https://github.com/user-attachments/assets/40fbbfbd-7a1f-4418-89ea-a7605be1e72c)
 
 
