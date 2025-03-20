@@ -76,47 +76,35 @@
 - **GitHub Issues**: 이슈를 통해 작업을 관리합니다. 버그, 기능 요청, 개선 사항 등을 관리하기 위해 GitHub 이슈를 사용합니다. 이슈 템플릿을 사용하여 이슈를 체계적으로 작성하고, 라벨을 통해 우선순위를 설정합니다.깃
 - **GitHub Actions**: 깃허브 액션을 사용하여 풀 리퀘스트가 생성될 때 자동으로 라벨링하여 반복적인 작업을 줄이고 이슈와 풀 리퀘스트를 체계적으로 관리합니다.
 
-## 📆 프로젝트 추진 일정
+## 📆 애자일 프로젝트 추진 일정
 <table>
   <tr>
-    <th>구조</th>
-    <th>1주차(3/6~3/12)</th>
-    <th>2주차(3/13~3/19)</th>
-    <th>3주차(3/20~3/26)</th>
-    <th>4주차(3/27~4/2)</th>
-    <th>5주차(4/3~4/9)</th>
-    <th>6주차(4/10~4/16)</th> 
-    <th>7주차(4/17~4/23)</th>
-    <th>8주차(4/24~4/30)</th>
-    <th>9주차(5/1~5/7)</th>
-    <th>10주차(5/8~5/14)</th>
-    <th>11주차(5/15~5/21)</th>
-    <th>12주차(5/22~5/28)</th>
-    <th>13주차(5/29~6/4)</th>
-    <th>14주차(6/5~6/11)</th>
-    <th>15주차(6/12~6/18)</th>
-    <th>16주차(6/19~6/25)</th>
+    <td>스프린트 1 (3/20)</td>
+    <td>주제 선정</td>
+    <td>기능명세서 작성</td>
+    <td>프로그래밍 언어/IDE/라이브러리/인공지능 모델/API/DBMS/서버 선정</td>
+    <td>화면 설계/플로우 차트</td>
+    <td>개발 계획서 작성</td>
   </tr>
   <tr>
-    <td align="center">프론트엔드</td>
-    <td colspan="3" rowspan="4" align="center">프로젝트 계획</td>
-    <td rowspan="4" align="center">개발 계획 발표(3/27)</td>
-    <td colspan="6" align="center">위키 초안 작성</td>
-    <td colspan="12" align="center">1. README.md 작성 및 검토<br>2. 위키 작성 및 검토</td>
+   <td>스프린트 2 (3/27)</td>
+   <td>개발 계획 발표</td>
+   <td>개발 계획 발표</td>
   </tr>
   <tr>
-    <td align="center">백엔드</td>
-    <td colspan="9" rowspan="4" align="center">협업 파이프라인 설계</td>
-    <td colspan="6" rowspan="4" align="center">보고서 초안 작성</td>
-    <td colspan="12" rowspan="4" align="center">보고서 작성 및 검토</td>
+   <td>스프린트 3 (4/3)</td>
   </tr>
   <tr>
-    <td align="center">AI학습 서버</td>
-  </tr>
-  <tr>
-    <td align="center">AI모델 서버</td>
+   <td>스프린트 4 (4/10)</td>
   </tr>
 </table>
+
+기능 중점 두고
+계획 개발 테스트
+
+## 백엔드
+python3.13.2
+scrapy-playwrite
 
 
 
