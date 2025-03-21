@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6ef10db0-dcb5-4772-b98c-c34df7e7750c)# LSTM 모델을 통한 영화 긍정/부정 비율 확인 서비스
+# LSTM 모델을 통한 영화 긍정/부정 비율 확인 서비스
 
 # 강의실 개발 환경 설정
 1. `mkdir C:\Github`
